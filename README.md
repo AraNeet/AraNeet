@@ -30,11 +30,15 @@ const Aramis = {
 };
 ```
 
-[![Linkedin: AramisAra](https://custom-icon-badges.demolab.com/badge/-linkedin-73a7fa?style=for-the-badge&logo=People&logoColor=white)](https://www.linkedin.com/in/aramis-martinez-a1a507296/)
+[![Linkedin: AraNeet](https://custom-icon-badges.demolab.com/badge/-linkedin-73a7fa?style=for-the-badge&logo=People&logoColor=white)](https://www.linkedin.com/in/aramis-martinez-a1a507296/)
+[![Portfilio: AraNeet](https://custom-icon-badges.demolab.com/badge/-portfilio-808080?style=for-the-badge&logo=Home&logoColor=white)](https://www.aradev-code.dev/)
 
 ##
 
 <br/>
 <br/>
 
-![AraNeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AraNeet&hide=contribs,prs&theme=dracula)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=araneet&layout=compact&hide=shaderlab,html,shell,css,hlsl&theme=tokyonight"
+  alt="Top Languages"
+/>
