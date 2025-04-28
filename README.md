@@ -30,6 +30,10 @@ const Aramis = {
 };
 ```
 
+<div>
+  ![snake gif](https://github.com/AraNeet/AraNeet/blob/output/github-snake-dark.svg)
+</div>
+
 [![Linkedin: AraNeet](https://custom-icon-badges.demolab.com/badge/-linkedin-73a7fa?style=for-the-badge&logo=People&logoColor=white)](https://www.linkedin.com/in/aramis-martinez-a1a507296/)
 [![Portfilio: AraNeet](https://custom-icon-badges.demolab.com/badge/-portfilio-808080?style=for-the-badge&logo=Home&logoColor=white)](https://www.aradev-code.dev/)
 
