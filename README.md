@@ -34,7 +34,7 @@ const Aramis = {
   ![snake gif](https://github.com/AraNeet/AraNeet/blob/output/github-snake-dark.svg)
 </div>
 
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)](https://github.com/AraNeet/Bravus)
 ---
 
 [![Linkedin: AraNeet](https://custom-icon-badges.demolab.com/badge/-linkedin-73a7fa?style=for-the-badge&logo=People&logoColor=white)](https://www.linkedin.com/in/aramis-martinez-a1a507296/)
